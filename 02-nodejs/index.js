@@ -1,7 +1,7 @@
 /**
  * 1.Obter um usuario
- * 1.Obter o numero de telefone de um usuario, a partir de seu id
- * 1.Obter o endereço de um usuario, a partir de seu id
+ * 2.Obter o numero de telefone de um usuario, a partir de seu id
+ * 3.Obter o endereço de um usuario, a partir de seu id
  */
 
 const obterUsuario = (callback) => {
